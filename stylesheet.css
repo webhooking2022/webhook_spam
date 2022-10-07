@@ -1,0 +1,73 @@
+
+* {
+    text-align: center;
+    color: #838383c9;
+    font-family: "Arial Black", Gadget, sans-serif"
+    
+}
+
+body {
+    background: url("https://d5y9g7a5.rocketcdn.me/wp-content/uploads/2020/09/bots-o-que-sao-como-funcionam-quais-seus-beneficios-e-maleficios-1024x505.png");
+    background-size: cover;
+    background-position: center;
+}
+
+#container {
+
+    background-image:url('https://d5y9g7a5.rocketcdn.me/wp-content/uploads/2020/09/bots-o-que-sao-como-funcionam-quais-seus-beneficios-e-maleficios-1024x505.png');
+    opacity: 1;
+ 
+}
+
+
+#header {
+    text-align: center;
+    margin-top: 47px;
+    margin: auto;
+    font-size: 39px;
+    color: rgb(255, 255, 255)
+
+}
+
+
+.center-align {
+    text-align: center;
+}
+
+p {
+    font-family: "Arial Black, Gadget, sans-serif";
+    font-size: 27px;
+}
+
+a, a:visited {
+    color: rgb(255, 255, 255)
+}
+
+#link, #username, #content, #avatar {
+    font-size: 25px;
+    background-color: #102c78;
+    width: 75%;
+    padding: 20px;
+    border-radius: 15px;
+}
+
+#btn {
+    width: 35%;
+    font-size: 25px;
+    color: #838383c9;
+    margin-top: 25px;
+    padding: 17px;
+    background-color: #102c78;
+    border-radius: 15px;
+}
+
+#btn:hover { 
+    background-color: #ffffff;
+}
+
+#log {
+    text-align: center;
+    width: 5%;
+    background-color: rgb(255, 255, 255);
+    color: rgb(255, 255, 255);
+}
